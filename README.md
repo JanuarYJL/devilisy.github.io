@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 如何证明你对技术有极大的热情？
 
-You can use the [editor on GitHub](https://github.com/JanuarYJL/devilisy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+在经历了几次这个问题后，决定创建一个博客，用来记录自己踩过的坑和捡到的金子！！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 扫盲区
 
-### Markdown
+记录一些基础知识或者原理
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[浮点数精度进阶](docs/knowledge/浮点数精度/浮点数精度.MD)
 
-```markdown
-Syntax highlighted code block
+### 技术区
 
-# Header 1
-## Header 2
-### Header 3
+记录一些用到过的技术和坑
 
-- Bulleted
-- List
+### 鸡汤区
 
-1. Numbered
-2. List
+滋养身体
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JanuarYJL/devilisy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
