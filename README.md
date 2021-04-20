@@ -13,6 +13,7 @@
 记录一些用到过的技术和坑
 
 [Rust学习历程](docs/technology/Rust学习历程/Rust学习历程.MD)
+[Lua源码阅读](docs/technology/Lua源码阅读/Lua源码阅读.MD)
 
 
 
