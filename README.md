@@ -2,7 +2,7 @@
 
 在经历了几次这个问题后，决定创建一个博客，用来记录自己踩过的坑和捡到的金子！！
 
-### 扫盲区
+### 知识区
 
 记录一些基础知识或者原理
 
@@ -19,6 +19,12 @@
 [Unix源码阅读](docs/technology/Unix源码阅读/Unix源码阅读.MD)
 
 [LevelDB源码阅读](docs/technology/LevelDB源码阅读/LevelDB源码阅读.MD)
+
+### 资源区
+
+共享一些资源
+
+[资源下载](docs/resources/资源目录.MD)
 
 
 ### 鸡汤区
